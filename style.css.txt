@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://img.freepik.com/free-vector/serene-ocean-sandy-shore_1308-171201.jpg?t=st=1768245459~exp=1768249059~hmac=9189f1a3fce6ede6817a2db046ecd0f444af45c47b823d6c4e66202c1088192b&w=1060");
+    width: 114vw;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background: cover;
+}
+
+.card-main {
+    text-align: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIBqqnDjltCrQ7J3quLuozWFj8uEr4XCevwg&s");
+    height: 210px;
+    width: 1000px;
+    color: white;
+    background-size: cover;
+    padding: 10px;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+
+.main-heading {
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.paragraph {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.button {
+    height: 36px;
+    width: 138px;
+    border-radius: 12px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.button-orange {
+    background-color: #f54e0c;
+}
+
+.button-blue {
+    background-color: #88b4bd;
+}
+
+.favourite-places-bg-container {
+    background-image: url("https://www.swantour.com/blogs/wp-content/uploads/2019/03/Travel-to-Kerala.jpg");
+    background-size: cover;
+    height: 140vh;
+    padding: 10px;
+}
+
+.Beautiful-places-india-heading {
+    font-family: serif;
+    font-family: bold;
+    color: white;
+}
+
+.favourite-place-card-image {
+    width: 90px;
+    height: 120px;
+}
+
+.favouite-place-card-container {
+    background-color: white;
+    height: 170px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.detaiview-of-indias-traveling-places-bg-container {
+    background-image: url("https://i0.wp.com/handluggageonly.co.uk/wp-content/uploads/2017/06/Hand-Luggage-Only-14.jpg?w=1600&ssl=1");
+    background-size: cover;
+    height: 100vh;
+    padding: 20px;
+}
+
+.heading {
+    font-family: impact;
+    color: #eb0909;
+}
+
+.card-bg-conainer {
+    background-color: white;
+    padding: 10px;
+}
+
+.card-ooty {
+    border-radius: 5px;
+}
+
+.card-heading {
+    font-family: impact;
+    color: black;
+}
+
+.paragraph {
+    font-family: impact;
+    color: red;
+    font-size: 25PX;
+}
+
+.detaile-view-of-ooty-bg-container {
+    background-image: url("https://ootyhoneymoon.com/wp-content/uploads/2019/11/Botanical-Garden-Ooty-Honeymoon-Place-Entrance-Fees-Tourism.jpg");
+    background-size: cover;
+    height: 150vh;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.heading {
+    font-family: impact;
+    color: #eb0909;
+}
+
+.card-bg-conainer {
+    background-color: green;
+    padding: 10px;
+
+}
+
+.card-heading {
+    font-family: impact;
+    color: skyblue;
+}
+
+.paragraph {
+    font-family: impact;
+    color: white;
+    font-size: 25PX;
+}
+
+.detail-view-of-ladhak-bg-container {
+    background-image: url("https://htoindia.com/wp-content/uploads/2026/02/Hall-of-Fame-museum.jpg");
+    background-size: cover;
+    height: 150vh;
+    padding: 20px;
+}
+
+.heading {
+    font-family: impact;
+    color: #eb0909;
+}
+
+.card-bg-conainer {
+    background-color: white;
+    padding: 10px;
+}
+
+.card-heading {
+    font-family: impact;
+    color: green;
+}
+
+.paragraph {
+    font-family: impact;
+    color: blue;
+    font-size: 25PX;
+}
+
+.detail-view-of-kashmir-bg-container {
+    background-image: url("https://d3sftlgbtusmnv.cloudfront.net/blog/wp-content/uploads/2024/07/Picturesque-view-of-Kashmir-cp-840x425.jpg");
+    background-size: cover;
+    height: 100vh;
+    padding: 20px;
+}
+
+.heading {
+    font-family: impact;
+    color: #eb0909;
+}
+
+.card-bg-conainer {
+    background-color: lightblue;
+    padding: 10px;
+}
+
+.card-heading {
+    font-family: impact;
+    color: green;
+}
+
+.paragraph {
+    font-family: impact;
+    color: red;
+    font-size: 25PX;
+}
+
+.detail-view-of-manali-bg-contaainer {
+    background-image: url("https://cf.bstatic.com/xdata/images/hotel/max1024x768/44693735.jpg?k=6b26f707e9e44898cbaba7bb9ae3600f76a002365a7076a7532d5c122abe4dbb&o=");
+    background-size: cover;
+    height: 150vh;
+    padding: 20px;
+}
+
+.heading {
+    font-family: impact;
+    color: #eb0909;
+}
+
+.card-bg-conainer {
+    background-color: #32a8a2;
+    padding: 10px;
+}
+
+.card-heading {
+    font-family: impact;
+    color: black;
+}
+
+.paragraph {
+    font-family: impact;
+    color: red;
+    font-size: 25PX;
+}
