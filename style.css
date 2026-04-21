@@ -6,7 +6,8 @@
     display: flex;
     justify-content: center;
     height: 100vh;
-    background: cover;
+    background-size: cover;
+    text-align-:center
 }
 
 .card-main {
