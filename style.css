@@ -3,8 +3,6 @@
 .bg-container {
     background-image: url("https://img.freepik.com/free-vector/serene-ocean-sandy-shore_1308-171201.jpg?t=st=1768245459~exp=1768249059~hmac=9189f1a3fce6ede6817a2db046ecd0f444af45c47b823d6c4e66202c1088192b&w=1060");
     width: 114vw;
-    display: flex;
-    justify-content: center;
     height: 100vh;
     background-size: cover;
     text-align-:center
